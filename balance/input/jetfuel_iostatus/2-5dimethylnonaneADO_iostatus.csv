@@ -1,0 +1,49 @@
+(2R-3S)-3-Isopropylmalate,Intermediate
+(2S)-2-Isopropyl-3-oxosuccinate,Intermediate
+(R)-2-3-Dihydroxy-3-methylbutanoate,Intermediate
+(S)-2-Acetolactate,Intermediate
+(S)-Methylmalonyl-CoA,Intermediate
+2-5-dimethyl-Decanoic acid,Intermediate
+2-5-dimethyl-Decanoyl-CoA,Intermediate
+2-5-dimethyl-Hexanoyl-CoA,Intermediate
+2-5-dimethyl-Nonane,Target
+2-5-dimethyl-Octanoyl-CoA,Intermediate
+2-5-dimethyl-Oxodecanoyl-CoA,Intermediate
+2-5-dimethyl-Oxohexanoyl-CoA,Intermediate
+2-5-dimethyl-Oxooctanoyl-CoA,Intermediate
+2-5-dimethyl-trans-dec-2-enoyl-CoA,Intermediate
+2-5-dimethyl-trans-hex-2-enoyl-CoA,Intermediate
+2-5-dimethyl-trans-oct-2-enoyl-CoA,Intermediate
+2-Isopropylmalate,Intermediate
+3-Hydroxy-3-methyl-2-oxobutanoic acid,Intermediate
+3-Methyl-2-oxobutanoic acid,Intermediate
+3_Methyl_1_hydroxybutyl_ThPP,Intermediate
+3_Methylbutanoyl_CoA,Intermediate
+4-Methyl-2-oxopentanoate,Intermediate
+ADP,Input/Output
+ATP,Input
+Acetyl-CoA,Input/Output
+CO2,Input/Output
+CoA,Input/Output
+Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine,Intermediate
+Enzyme N6_dihydrolipoyl_lysine,Input/Output
+Enzyme N6_lipoyl_lysine,Input/Output
+H2O,Input/Output
+HCO3-,Intermediate
+Hplus,Input/Output
+Malonyl-CoA,Intermediate
+NADH,Input
+NADPH,Intermediate
+NADPplus,Input/Output
+NADplus,Input/Output
+Orthophosphate,Input/Output
+Propionyl-CoA,Input/Output
+Pyruvate,Input/Output
+S-2-5-dimethyl-Hydroxydecanoyl-CoA,Intermediate
+S-2-5-dimethyl-Hydroxyhexanoyl-CoA,Intermediate
+S-2-5-dimethyl-Hydroxyoctanoyl-CoA,Intermediate
+Thiamin diphosphate,Intermediate
+alpha-Isopropylmalate,Intermediate
+Oxygen,Input/Output
+Formate,Intermediate
+2-5-dimethyl-Decanal,Intermediate

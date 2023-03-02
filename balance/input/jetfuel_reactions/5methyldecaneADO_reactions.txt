@@ -1,0 +1,23 @@
+CO2 + H2O → HCO3- + Hplus
+ATP + Propionyl-CoA + HCO3- → ADP + Orthophosphate + (S)-Methylmalonyl-CoA
+ATP + Acetyl-CoA + HCO3- → ADP + Orthophosphate + Malonyl-CoA
+Propionyl-CoA + Malonyl-CoA → 5-Acetoacetyl-CoA + CO2 + CoA
+5-Acetoacetyl-CoA + NADPH + Hplus → 3R-3-Hydroxypentanoyl-CoA + NADPplus
+3R-3-Hydroxypentanoyl-CoA → Pent-2-enoyl-CoA + H2O
+Pent-2-enoyl-CoA + NADPH + Hplus → Pentanoyl-CoA + NADPplus
+(S)-Methylmalonyl-CoA + Pentanoyl-CoA → CoA + CO2 + 6-methyl-3-Oxoheptanoyl-CoA
+6-methyl-3-Oxoheptanoyl-CoA + NADH + Hplus → 6-methyl-S-Hydroxyheptanoyl-CoA + NADplus
+6-methyl-S-Hydroxyheptanoyl-CoA → 6-methyl-trans-hept-2-enoyl-CoA + H2O
+6-methyl-trans-hept-2-enoyl-CoA + NADPH + Hplus → 6-methyl-Heptanoyl-CoA + NADPplus
+Malonyl-CoA + 6-methyl-Heptanoyl-CoA → CoA + CO2 + 6-methyl-3-Oxononanoyl-CoA
+6-methyl-3-Oxononanoyl-CoA + NADH + Hplus → 6-methyl-S-Hydroxynonanoyl-CoA + NADplus
+6-methyl-S-Hydroxynonanoyl-CoA → 6-methyl-trans-non-2-enoyl-CoA + H2O
+6-methyl-trans-non-2-enoyl-CoA + NADPH + Hplus → 6-methyl-Nonanoyl-CoA + NADPplus
+Malonyl-CoA + 6-methyl-Nonanoyl-CoA → CoA + CO2 + 6-methyl-3-Oxoundecanoyl-CoA
+6-methyl-3-Oxoundecanoyl-CoA + NADH + Hplus → 6-methyl-S-Hydroxyundecanoyl-CoA + NADplus
+6-methyl-S-Hydroxyundecanoyl-CoA → 6-methyl-trans-undec-2-enoyl-CoA + H2O
+6-methyl-trans-undec-2-enoyl-CoA + NADPH + Hplus → 6-methyl-Undecanoyl-CoA + NADPplus
+6-methyl-Undecanoyl-CoA + NADH + Hplus → CoA + 5-methyl-Undecanal + NADplus
+5-methyl-Undecanal + Oxygen + 2*NADPH + 2*Hplus → 5-methyl-Decane + Formate + H2O + 2*NADPplus
+Formate → CO2 + NADH + Hplus
+NADH + NADPplus → NADPH + NADplus
